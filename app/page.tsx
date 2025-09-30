@@ -185,8 +185,8 @@ export default function Home() {
             </div>
 
             <p className="text-xs text-muted-foreground leading-relaxed">
-              <strong>Qeyd:</strong> Bu demo versiya localStorage istifadə edir. Firebase inteqrasiyası əlavə edildikdən
-              sonra bütün məlumatlarınız təhlükəsiz şəkildə saxlanacaq və cihazlar arasında sinxronlaşacaq.
+              <strong>Qeyd:</strong> Bu platforma AxtarGet MMC tərəfindən yaradılmışdır. 
+              Sizin rəqəmsal dünyaznız olmağa və daima yeniliklərlə qarşınıza çıxacağıq. İzləmədə qalın).
             </p>
           </div>
         </div>
